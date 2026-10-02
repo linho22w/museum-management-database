@@ -31,6 +31,8 @@ Beyond the schema, `database/phase2-queries-procedures-triggers.sql` implements 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/T--SQL-37474F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DDL-455A64?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DML-607D8B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Stored%20Procedures-6A1B9A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Triggers-00897B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Database%20Normalization-2496ED?style=for-the-badge" />

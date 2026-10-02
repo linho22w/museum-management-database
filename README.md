@@ -40,7 +40,7 @@ Beyond the schema, `database/phase2-queries-procedures-triggers.sql` implements 
 
 ```
 database/
-  phase1-schema.sql                        table creation (DDL)
+  phase1-schema.sql                        schema (DDL) + sample data
   phase2-queries-procedures-triggers.sql   schema + sample data + queries + procedure + trigger
 assets/
   er-diagram.png
